@@ -19,7 +19,6 @@ for (let i=0;i<palabraDelDia.length;i++) {
 
     let siguienteLetraCorrecta = palabraDelDia[i];
     let siguienteLetraIntroducida = palabraIntroducida[i];
-
     // Tu código a partir de aquí, dentro del bucle
 }
 
